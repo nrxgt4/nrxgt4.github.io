@@ -13,8 +13,8 @@
    not offer a public API for follower/like counts).
    ------------------------------------------------------------------- */
 const CHANNEL_STATS = {
-  followers: 600,
-  likes: 11000,
+  followers: 700,
+  likes: 13000,
   videos: 7,
   age: 16, // this is my age, not the account's age
   updated: "September 2026", // EDIT: update this whenever you update the numbers above
