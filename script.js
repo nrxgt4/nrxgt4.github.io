@@ -8,14 +8,12 @@
 
 /* -------------------------------------------------------------------------
    1. CHANNEL STATS — edit these numbers whenever your channel updates.
-   "updated" is just a plain text date shown under the stats so visitors
-   know these are refreshed by hand, not a live TikTok feed (TikTok does
-   not offer a public API for follower/like counts).
+
    ------------------------------------------------------------------- */
 const CHANNEL_STATS = {
-  followers: 700,
-  likes: 13000,
-  videos: 7,
+  followers: 1300,
+  likes: 29000,
+  videos: 10,
   age: 16, // this is my age, not the account's age
   updated: "September 2026", // EDIT: update this whenever you update the numbers above
 };
